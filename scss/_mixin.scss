@@ -1,0 +1,14 @@
+@mixin footer {
+    background: #ff5e00;
+    height: 100px;
+    text-align: center;
+    font-stretch: ultra-expanded;
+}
+
+@mixin header {
+    background: #ff5e00;
+    height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-stretch: ultra-expanded;
+}
